@@ -1,1 +1,0 @@
-# POO-in-JavaScript
