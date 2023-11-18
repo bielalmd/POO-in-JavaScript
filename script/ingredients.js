@@ -13,4 +13,4 @@ var ingredients = [
     }
 ];
 
-export default ingredients
+export default ingredients;
