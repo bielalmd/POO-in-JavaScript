@@ -1,1 +1,1 @@
-# POO-in-JavaScript
+# Programação Orientada a Objetos com JavaScript
