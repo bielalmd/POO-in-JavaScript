@@ -1,1 +1,3 @@
-# Programação Orientada a Objetos com JavaScript
+# Programação Orientado a Objetos em JavaScript
+
+Curso/Projeto feito na plataforma Udemy de POO com **JavaScript** com alguns exercícios práticos para aprendizado...
